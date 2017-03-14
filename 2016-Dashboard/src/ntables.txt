@@ -1,0 +1,19 @@
+D.isHGr
+
+DC.drMd
+
+D.isAH - auto heading - boolean
+
+H.h - gyro heading
+
+DC.tH - target heading
+
+D.diag "POS", "STATES", "MOTORS"
+
+H.aAng
+
+A.aAngTgt
+
+H.sAng
+
+A.sAngTgt
